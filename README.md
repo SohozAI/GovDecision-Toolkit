@@ -4,16 +4,24 @@ A comprehensive resource for empowering public servants with AI-driven data anal
 This repository covers the following models, each designed to solve specific types of complex problems:
 # Forecasting & Time Series Analysis 📈
 What it is: Predicting future trends and system behaviors by analyzing historical data patterns over time.
+
 Practical Example: Predicting next month's electricity demand based on the past five years of seasonal usage data and weather patterns.
+
 # Multi-Objective Optimization ⚖️
 What it is: Finding the optimal balance and best trade-offs between multiple conflicting goals simultaneously.
+
 Practical Example: Designing an electric vehicle battery to maximize driving range while minimizing both manufacturing cost and physical weight.
+
 # Decision Making Under Deep Uncertainty 🌫️
 What it is: Developing robust, adaptive strategies for complex situations where future conditions and probabilities are highly unpredictable.
+
 Practical Example: Planning a city's coastal flood defense system for the next 100 years without knowing the exact rate of global sea-level rise.
+
 # Simulation & Agent-Based Modeling 🤖
 What it is: Simulating individual entities and their interactions to understand complex, emergent system-wide behaviors.
+
 Practical Example: Simulating how thousands of individual commuters choose their daily routes to identify potential traffic bottlenecks before building a new highway.
+
 # Cause Relation Analysis 🔗
 What it is: Identifying, mapping, and quantifying the direct cause-and-effect relationships between different variables.
 Practical Example: Determining whether a recent marketing campaign actually caused a spike in sales, or if it was just a coincidence due to seasonal trends.
